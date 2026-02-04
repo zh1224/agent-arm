@@ -29,6 +29,18 @@ cameras:
     farval: 2
     width: 84
     height: 84
+  static_vlm:
+    _target_: calvin_env.camera.static_camera.StaticCamera
+    name: static_vlm
+    fov: 10
+    aspect: 1
+    nearval: 0.01
+    farval: 10
+    width: 640
+    height: 640
+    look_at: ${cameras.static.look_at}
+    look_from: ${cameras.static.look_from}
+    up_vector: ${cameras.static.up_vector}
 env:
   _target_: calvin_env.envs.play_table_env.PlayTableSimEnv
   _recursive_: false

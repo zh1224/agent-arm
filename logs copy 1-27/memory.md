@@ -1,0 +1,29 @@
+
+
+calvin_pi05_test_500是记录了500次长时序任务所经历的所有子任务组合初始状态
+calvin_pi05_test_recover是加了恢复i机制，但是是在自己任务组合的状态区域的success_list的一个平均值作为一个恢复状态，100次实验，成功率提升了几个点，但是不多(而且是用的记录500次的实验结果，样本比较少)
+calvin_pi05_test_1500是记录了1500次长时序任务所经历的所有子任务组合初始状态
+
+
+calvin_pi05_test_cluster是用的改进的恢复机制，去恢复的，不是简单去对应组合状态初始值，而是把各个子任务的最好的初始状态的那一簇找出来，每次都去这一簇去抽取，因为有的这个子任务对应的簇并不好（用1500次实验的记录）
+（现在我遇到个问题，每次子任务初始状态都让他去恢复到之前记录的最容易成功的状态，但是有个问题是当前在状态可能和之前状态有连接，比如上一个状态是拿起蓝色方块，当前状态是放入slider，那么如果我们这个初始状态更新的话，方块会掉落，无法执行这个子任务）还是要用之前的组合任务恢复机制
+calvin_pi05_test_recover用1500次的实验结果进行恢复机制，效果并不好
+
+
+
+
+
+
+
+push sth to right 当block在最右边，很难操作到，所以先把它拿到最左边，再操作。  push_pink_block_right: ["grasp the pink block, then place it in left of led"]   然后再push right我觉得是ok的
+
+calvin_pi05_with_agnet是带上agent之后的测试，他是在每次操作slider或者drawer的时候就看看后面有没有在这个基础上面成功才能进行的任务，如果有就再操作一遍确保成功，也确保后面的任务可以有序进行
+calvin_pi05_with_agnet_attempt是在上面基础上加上attempt，因为我发现有的时候机械臂进入一个诡异状态才无法进入下一个任务，我现在在每个任务失败后，重新回到原始点，再给一个重试任务的机会，看看成功率
+
+
+
+现在两个问题，一个是lift_red_block的成功率低，一个是从slider里面拿东西低（这个原因是slider没有打开）  还有push into drawer prompt没有写清楚是把哪个放入drawer，
+
+还有就是slider问题，有的是前面的slider会盖住后面要拿到的block（有的是前面失败导致，有的是设计的就是这样）
+
+calvin_pi05_with_long_prompt这个是pi05给长时序任务的实验

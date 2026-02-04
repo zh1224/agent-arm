@@ -23,8 +23,27 @@ from calvin_env.envs.play_table_env import get_env
 
 from rlinf.envs.calvin import ENV_CFG_DIR, _get_calvin_tasks_and_reward
 from toolkits.eval_scripts_openpi import setup_logger, setup_policy
+def build_long_task_prompt(task_sequence, task_instructions, sep=" then "):
+    # clean each subtask prompt (collapse spaces + remove trailing period)
+    prompts = []
+    for s in task_sequence:
+        p = " ".join(str(task_instructions[s][0]).split()).strip()
+        p = p.rstrip(".")
+        prompts.append(p)
 
+    if not prompts:
+        return ""
+    if len(prompts) == 1:
+        return prompts[0] + "."
 
+    then_word = sep.strip() or "then"
+    return f", {then_word} ".join(prompts[:-1]) + f", and {then_word} " + prompts[-1] + "."
+
+def _safe_name(s: str, max_len: int = 120) -> str:
+    # 只保留字母数字下划线和短横线，其他都变成 _
+    import re
+    s = re.sub(r"[^0-9a-zA-Z_\-]+", "_", s)
+    return s[:max_len].strip("_")
 # print performance
 def _calvin_print_performance(logger, episode_solved_subtasks, per_subtask_success):
     # Compute avg success rate per task length
@@ -69,6 +88,11 @@ def main(args):
         # Rollout
         rollout_images = []
         solved_subtasks = 0
+
+      #  long_prompt=build_long_task_prompt(task_sequence=task_sequence,task_instructions=task_instructions)
+
+     #   logger.info(f"long prompt:{long_prompt}")
+        task_sequence=["push_red_block_right"]
         for subtask in task_sequence:
             start_info = env.get_info()
             action_plan = collections.deque()
@@ -123,16 +147,17 @@ def main(args):
 
         episode_solved_subtasks.append(solved_subtasks)
         if len(episode_solved_subtasks) <= args.num_save_videos:
-            # Save rollout video
             idx = len(episode_solved_subtasks)
-            # Determine success: all subtasks completed
             is_success = solved_subtasks == len(task_sequence)
             suffix = "success" if is_success else "failure"
+
+            seq_name = _safe_name("__".join(task_sequence), max_len=160)
             out_path = (
                 pathlib.Path(f"{args.log_dir}/{args.exp_name}/")
-                / f"rollout_{idx}_{suffix}.mp4"
+                / f"rollout_{idx}_{suffix}__{seq_name}.mp4"
             )
             out_path.parent.mkdir(parents=True, exist_ok=True)
+
             imageio.mimwrite(
                 out_path,
                 [np.asarray(x) for x in rollout_images[:: args.video_temp_subsample]],

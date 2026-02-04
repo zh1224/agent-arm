@@ -94,3 +94,6 @@ def get_model(cfg: DictConfig, torch_dtype=None):
     )
 
     return model
+
+# ---- compat for toolkits/eval_scripts_openpi ----
+from .dataconfig import _CONFIGS_DICT  # noqa: F401

@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2026-01-30T18:10:45.554416",
+    "category": "task_strategy",
+    "content": "Subtask: push_blue_block_left\n- 失败策略: \"lift blue block from table and place it front of button\"\n- 失败原因: 直接搬运到button前方可能无法满足\"从桌面开始、在桌面结束\"的约束（位移要求是从桌面的一侧到另一侧）\n- 改进方向: \n  1. 需要确保开始和结束都在同一表面（桌面）\n  2. 尝试将蓝色块移动到其他地标物体（如sliding cabinet）的左侧\n  3. 或尝试更近的距离搬运，避免远距离搬运导致的失败\n  4. 考虑添加准备步骤：先将机器人移动到更接近蓝色块的位置"
+  },
+  {
+    "timestamp": "2026-01-30T18:16:04.672953",
+    "category": "subtask_success_prompt",
+    "content": "For subtask \"push_blue_block_left\", the prompt \"PASS\" has been confirmed to successfully complete it. If this subtask appears again, use \"PASS\" as the prompt."
+  },
+  {
+    "timestamp": "2026-01-31T14:59:13.370014",
+    "category": "successful_strategy",
+    "content": "push_blue_block_left (success_rate: 0% -> 100%)\n- Original approach: push_blue_block_left (failed 5 times)\n- Successful approach: \"pick up the blue block and place it left of button\"\n- Key insight: \"lift + place\" strategy works better than direct \"push\" for block movement tasks\n- The blue block was on the table, to the right of purple block\n- By lifting and placing it left of button, we achieve the required x-direction displacement while maintaining non-robot-surface contact (table surface)"
+  },
+  {
+    "timestamp": "2026-02-01T18:25:07.989586",
+    "category": "task_analysis",
+    "content": "Round analysis: push_red_block_left succeeded with prompt \"place red block left of button\". RULEBOOK_SO_FAR is empty. No new rules needed - single success does not indicate pattern."
+  },
+  {
+    "timestamp": "2026-02-02T02:00:10.823311",
+    "category": "task_decision",
+    "content": "push_blue_block_right: blue block is left of button, using button as landmark. Prompt selected: place blue block right of button"
+  },
+  {
+    "timestamp": "2026-02-02T05:04:52.930471",
+    "category": "analysis",
+    "content": "Current task: push_pink_block_right (45.8% success rate). Pink block is on table surface, centered slightly toward front edge. Grey L-shaped button is directly in front of pink block (closer to front edge). Need to move pink block to the right. Successful patterns in history: 'pick pink block right of button' (4/7=57% success), 'place pink block right of button' mixed results but some successes. Key insight: button is the most precise landmark available, 'pick' + 'right of button' structure historically works."
+  },
+  {
+    "timestamp": "2026-02-02T11:04:11.697735",
+    "category": "prompt_choice",
+    "content": "Image: blue block right of button (medium). Target: push left to button. Use same landmark 'button'. Selected 'place blue block left of button' (25/29 history success), meeting constraints: one-verb, short, same reference for start/end."
+  }
+]

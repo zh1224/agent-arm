@@ -1,0 +1,840 @@
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "move blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block on table left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place the blue block right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "move blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of black button", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place the blue block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place the red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the pink block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "move pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place the blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place the pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place the pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place the pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "push red block to right of led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place the blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place the red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to left of the led<|assistant|>"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place the pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place the blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "根据历史记录分析，push_blue_block_left 任务常用的成功prompt是 \"place blue block to the left of the led\"。虽然成功率为80%，但这是经过多次验证的有效格式。\n\nplace blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of button", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place the blue block to the right of led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place the pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block right of led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place the blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place the blue block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place the red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place the blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "move red block to the right of led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of led", "outcome": "succeeded", "prepare_prompt": "place the pink block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place the blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the pink block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to the left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the red block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place the blue block to left of the led"}
+{"subtask": "push_red_block_right", "prompt2": "place red block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place red block to the left of the led"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_right", "prompt2": "place pink block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place pink block to the left of the led"}
+{"subtask": "push_blue_block_left", "prompt2": "place blue block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_pink_block_left", "prompt2": "place pink block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of the led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_red_block_left", "prompt2": "place red block to the left of led", "outcome": "succeeded", "prepare_prompt": "no need"}
+{"subtask": "push_blue_block_right", "prompt2": "place blue block to the right of the led", "outcome": "succeeded", "prepare_prompt": "place blue block to the left of the led"}

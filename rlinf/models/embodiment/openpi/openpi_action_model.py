@@ -789,9 +789,12 @@ class OpenPi0ForRLActionPrediction(PI0Pytorch, BasePolicy):
             lang_token_len = 200
             all_token_length = 968
         elif "pi0_" in self.config.config_name:
-            lang_token_len = 48
-            all_token_length = 816
-
+            # lang_token_len = 48
+            # all_token_length = 816
+            seq_len = prefix_output.shape[1]
+            img_tokens = 256 * 3  # 768
+            lang_token_len = seq_len - img_tokens
+            all_token_length = seq_len
         if self.config.value_vlm_mode == "mean_token":
             prefix_mask = (
                 [True] * 256 * self.config.num_images_in_input
